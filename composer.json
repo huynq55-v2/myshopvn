@@ -110,6 +110,9 @@
         "patches": {
             "drupal/default_content": {
                 "#3160146 Add a Normalizer and Denormalizer to support Layout Builder": "patches/default_content/3160146-layout-builder.patch"
+            },
+            "drupal/facets": {
+                "https://www.drupal.org/project/facets/issues/3052574": "patches/facets-ajax-fix-3052574-2.0.8.patch"
             }
         },
         "patchLevel": {
