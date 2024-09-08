@@ -65,6 +65,7 @@
         "centarro/commerce_kickstart": "^3.0",
         "composer/installers": "^2.0",
         "cweagans/composer-patches": "^1.7",
+        "drupal/color_field": "^3.0",
         "drupal/commerce_demo": "^3.0",
         "drupal/commerce_stripe": "^1.1",
         "drupal/core-composer-scaffold": "^10",
